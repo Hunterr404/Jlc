@@ -1,1 +1,4 @@
-/bin/com/
+/com/
+/.classpath
+/.project
+/bin
